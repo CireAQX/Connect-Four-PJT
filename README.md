@@ -4,7 +4,6 @@ A command-line Connect Four game built in C++ as part of my final class project.
 The game features a 6x7 grid, alternating player turns, victory condition checks (horizontal, vertical, diagonal), and input validation.
 
 ## Features
--6x7 dynamic game board
 - Two-player gameplay with user-chosen symbols
 - Win condition checks: horizontal, vertical, and diagonal
 - Input validation for illegal moves and full columns
